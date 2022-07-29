@@ -1,0 +1,10 @@
+#canvas{
+    border: 3px solid rgb(255, 0, 157);
+    background-image: url(img.jpg);
+}
+/* body{
+    transform: rotate(-90deg);
+} */
+#canvas2{
+    border: 3px solid rgb(200, 255, 0);
+}
